@@ -12,3 +12,7 @@
  - 홈페이지 상단용으로 만든 로고
 
  <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FG3x1K%2FbtrSM4ouMs7%2FkYKuOAs2JwxGVK9vbCe6Gk%2Fimg.jpg" style="width: 45%">
+ 
+ <div>
+<span> 설문지 관련 </span>
+ </div>
