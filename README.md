@@ -16,3 +16,35 @@
  <div>
 <span> 설문지 관련 </span>
  </div>
+ 
+ <div>
+ <span> 설문지 생성/ 수정 </span>
+
+https://user-images.githubusercontent.com/110158529/224976577-1c283589-4053-44f1-9239-c40f6d379fc0.mov
+
+ </div>
+
+ <div>
+ <span> 설문지 작성 </span>
+ 
+https://user-images.githubusercontent.com/110158529/224976990-966fea8a-b075-4872-9063-b8992d2e48bc.mov
+
+ </div>
+ 
+ <div>
+ <span> 설문지 확인하기. </span>
+
+https://user-images.githubusercontent.com/110158529/224977090-ea2f3770-79c1-43e5-a01d-336ebe57adf0.mov
+ 
+ </div>
+
+
+
+
+<div>
+ <span> 설문지 데이터 시각화 </span>
+
+https://user-images.githubusercontent.com/110158529/224976838-d6aa59b8-da65-40db-9a92-b179665bc6bb.mov
+
+ </div>
+
