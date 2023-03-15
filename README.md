@@ -42,9 +42,10 @@ https://user-images.githubusercontent.com/110158529/224977090-ea2f3770-79c1-43e5
 
 
 <div>
- <span> 설문지 데이터 시각화 </span>
+ <span> 설문지 데이터 시각화 </span><br>
 
 https://user-images.githubusercontent.com/110158529/224976838-d6aa59b8-da65-40db-9a92-b179665bc6bb.mov
 
+https://github.com/SungHoonGit/HanyangLib/blob/main/src/main/resources/static/adminBootstrap/js/demo/chart-area-demo.js
  </div>
 
