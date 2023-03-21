@@ -16,7 +16,7 @@
 
 <h2> 설문지 </h2>
  - 커뮤니티 가입 절차 진행 시 설문지 서비스를 제공하였습니다.
- - javaScript에서 데이터를 json 처리후 ajax를 주로 사용하였습니다.
+ - javaScript에서 데이터를 json 처리후 ajax를 주로 사용하였습니다. <br>
  - Controller
  <p> https://github.com/SungHoonGit/HanyangLib/blob/main/src/main/java/kr/co/itwill/survey/SurveyCont.java </p> <br>
  - Mapper
