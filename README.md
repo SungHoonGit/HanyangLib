@@ -20,7 +20,7 @@
  <div>
  <h3> 설문지 생성 </h3>
 <video controls loop muted autoplay width=560 height=315>
-    <source src="[동영상url](https://user-images.githubusercontent.com/110158529/224976577-1c283589-4053-44f1-9239-c40f6d379fc0.mov)" />
+    <source src="https://user-images.githubusercontent.com/110158529/224976577-1c283589-4053-44f1-9239-c40f6d379fc0.mov" />
 </video>
 
 
