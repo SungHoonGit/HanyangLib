@@ -18,11 +18,13 @@
  </div>
  
  <div>
- <span> 설문지 생성 </span><br>
+ <h3> 설문지 생성 </h3>
+<video controls loop muted autoplay width=560 height=315>
+    <source src="[동영상url](https://user-images.githubusercontent.com/110158529/224976577-1c283589-4053-44f1-9239-c40f6d379fc0.mov)" />
+</video>
 
-https://user-images.githubusercontent.com/110158529/224976577-1c283589-4053-44f1-9239-c40f6d379fc0.mov
 
- ajax를 이용하여, 3가지 데이터 테이블에 문제수, 문항수 만큼 반복하여 실행, 저장.
+ - ajax를 이용하여, 3가지 데이터 테이블에 문제수, 문항수 만큼 반복하여 실행하여 저장하였습니다.
  <p> 생성하기. </p>
  <p> https://github.com/SungHoonGit/HanyangLib/blob/main/src/main/webapp/WEB-INF/views/survey/create.jsp </p>
  <p> 업데이트 </p>
@@ -30,16 +32,16 @@ https://user-images.githubusercontent.com/110158529/224976577-1c283589-4053-44f1
  </div>
 
  <div>
- <span> 설문지 작성 </span><br>
+ <h3> 설문지 작성 </h3>
  
 https://user-images.githubusercontent.com/110158529/224976990-966fea8a-b075-4872-9063-b8992d2e48bc.mov
  
- <p> 업데이트 </p>
- <p> https://github.com/SungHoonGit/HanyangLib/blob/main/src/main/webapp/WEB-INF/views/survey/update.jsp </p>
+ <p>https://github.com/SungHoonGit/HanyangLib/blob/main/src/main/webapp/WEB-INF/views/survey/write.jsp</p>
+
  </div>
  
  <div>
- <span> 답변하기. </span><br>
+ <h3> 답변 확인 </h3>
 
 https://user-images.githubusercontent.com/110158529/224977090-ea2f3770-79c1-43e5-a01d-336ebe57adf0.mov
  
@@ -50,7 +52,7 @@ https://user-images.githubusercontent.com/110158529/224977090-ea2f3770-79c1-43e5
 
 
 <div>
- <span> 설문지 데이터 시각화 </span><br>
+ <h3> 설문지 데이터 시각화 </h3>
 
 https://user-images.githubusercontent.com/110158529/224976838-d6aa59b8-da65-40db-9a92-b179665bc6bb.mov
 
