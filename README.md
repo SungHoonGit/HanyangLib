@@ -13,16 +13,12 @@
 
  <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FG3x1K%2FbtrSM4ouMs7%2FkYKuOAs2JwxGVK9vbCe6Gk%2Fimg.jpg" style="width: 45%">
  
- <div>
-<h2> 설문지 제공 </h2>
- </div>
- 
- <div>
- <h3> 설문지 생성 </h3>
-<video controls loop muted autoplay width=560 height=315>
-    <source src="https://user-images.githubusercontent.com/110158529/224976577-1c283589-4053-44f1-9239-c40f6d379fc0.mov" />
-</video>
 
+<h2> 설문지 제공 </h2>
+
+
+ <h3> 설문지 생성 </h3>
+ <img src="https://user-images.githubusercontent.com/110158529/224976577-1c283589-4053-44f1-9239-c40f6d379fc0.mov" style="width: 45%">
 
  - ajax를 이용하여, 3가지 데이터 테이블에 문제수, 문항수 만큼 반복하여 실행하여 저장하였습니다.
  <p> 생성하기. </p>
@@ -61,5 +57,5 @@ https://user-images.githubusercontent.com/110158529/224976838-d6aa59b8-da65-40db
  
  <p> Chart-area </p>
  https://github.com/SungHoonGit/HanyangLib/blob/main/src/main/resources/static/adminBootstrap/js/demo/chart-area-demo.js
- </div>
+
 
